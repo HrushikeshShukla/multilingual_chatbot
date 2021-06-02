@@ -1,0 +1,6 @@
+fastai==1.0.57
+inltk
+nltk
+sklearn
+beautifulsoup4
+googlesearch-python
